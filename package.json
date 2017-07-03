@@ -1,0 +1,10 @@
+{
+  "name": "spoop",
+  "version": "0.0.1",
+  "description": "A spoopy.link CLI :)",
+  "dependencies": {
+    "chalk": "^2.0.1",
+    "meow": "^3.7.0",
+    "snekfetch": "^3.1.11"
+  }
+}
